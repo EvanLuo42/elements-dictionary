@@ -1,0 +1,324 @@
+[
+  {
+    "symbol": "H",
+    "name": "Hydrogen",
+    "details": {
+      "Atomic Number": 1,
+      "Relative Atomic Mass": "1.01",
+      "Electron Configuration": "1s<sup>1</sup>",
+      "Melting Point": "-259.2 °C",
+      "Group": 1,
+      "Period": 1,
+      "Atomic Radius": "53 pm",
+      "Electronegativity": "2.20"
+    }
+  },
+  {
+    "symbol": "He",
+    "name": "Helium",
+    "details": {
+      "Atomic Number": 2,
+      "Relative Atomic Mass": "4.00",
+      "Electron Configuration": "1s<sup>2</sup>",
+      "Melting Point": "-272.2 °C",
+      "Group": 18,
+      "Period": 1,
+      "Atomic Radius": "31 pm",
+      "Electronegativity": "None"
+    }
+  },
+  {
+    "symbol": "Li",
+    "name": "Lithium",
+    "details": {
+      "Atomic Number": 3,
+      "Relative Atomic Mass": "6.94",
+      "Electron Configuration": "[He] 2s<sup>1</sup>",
+      "Melting Point": "180.5 °C",
+      "Group": 1,
+      "Period": 2,
+      "Atomic Radius": "182 pm",
+      "Electronegativity": "0.98"
+    }
+  },
+  {
+    "symbol": "Be",
+    "name": "Beryllium",
+    "details": {
+      "Atomic Number": 4,
+      "Relative Atomic Mass": "9.01",
+      "Electron Configuration": "[He] 2s<sup>2</sup>",
+      "Melting Point": "1,287 °C",
+      "Group": 2,
+      "Period": 2,
+      "Atomic Radius": "153 pm",
+      "Electronegativity": "1.57"
+    }
+  },
+  {
+    "symbol": "B",
+    "name": "Boron",
+    "details": {
+      "Atomic Number": 5,
+      "Relative Atomic Mass": "10.81",
+      "Electron Configuration": "[He] 2s<sup>2</sup>",
+      "Melting Point": "2,076 °C",
+      "Group": 13,
+      "Period": 2,
+      "Atomic Radius": "85 pm",
+      "Electronegativity": "2.04"
+    }
+  },
+  {
+    "symbol": "C",
+    "name": "Carbon",
+    "details": {
+      "Atomic Number": 6,
+      "Relative Atomic Mass": "12.01",
+      "Electron Configuration": "[He] 2s<sup>2</sup> 2p<sup>2</sup>",
+      "Melting Point": "3,550 °C",
+      "Group": 14,
+      "Period": 2,
+      "Atomic Radius": "70 pm",
+      "Electronegativity": "2.55"
+    }
+  },
+  {
+    "symbol": "N",
+    "name": "Nitrogen",
+    "details": {
+      "Atomic Number": 7,
+      "Relative Atomic Mass": "14.01",
+      "Electron Configuration": "[He] 2s<sup>2</sup> 2p<sup>3</sup>",
+      "Melting Point": "-210 °C",
+      "Group": 15,
+      "Period": 2,
+      "Atomic Radius": "65 pm",
+      "Electronegativity": "3.04"
+    }
+  },
+  {
+    "symbol": "O",
+    "name": "Oxygen",
+    "details": {
+      "Atomic Number": 8,
+      "Relative Atomic Mass": "16.00",
+      "Electron Configuration": "[He] 2s<sup>2</sup> 2p<sup>4</sup>",
+      "Melting Point": "-218.8 °C",
+      "Group": 16,
+      "Period": 2,
+      "Atomic Radius": "60 pm",
+      "Electronegativity": "3.44"
+    }
+  },
+  {
+    "symbol": "F",
+    "name": "Fluorine",
+    "details": {
+      "Atomic Number": 9,
+      "Relative Atomic Mass": "19.00",
+      "Electron Configuration": "[He] 2s<sup>2</sup> 2p<sup>5</sup>",
+      "Melting Point": "-219.6 °C",
+      "Group": 17,
+      "Period": 2,
+      "Atomic Radius": "147 pm",
+      "Electronegativity": "3.98"
+    }
+  },
+  {
+    "symbol": "Ne",
+    "name": "Neon",
+    "details": {
+      "Atomic Number": 10,
+      "Relative Atomic Mass": "20.18",
+      "Electron Configuration": "[He] 2s<sup>2</sup> 2p<sup>6</sup>",
+      "Melting Point": "-248.6 °C",
+      "Group": 18,
+      "Period": 2,
+      "Atomic Radius": "38 pm",
+      "Electronegativity": "None"
+    }
+  },
+  {
+    "symbol": "Na",
+    "name": "Sodium",
+    "details": {
+      "Atomic Number": 11,
+      "Relative Atomic Mass": "22.99",
+      "Electron Configuration": "[Ne] 3s<sup>1</sup>",
+      "Melting Point": "97.79 °C",
+      "Group": 1,
+      "Period": 3,
+      "Atomic Radius": "227 pm",
+      "Electronegativity": "0.93"
+    }
+  },
+  {
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "details": {
+      "Atomic Number": 12,
+      "Relative Atomic Mass": "24.31",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup>",
+      "Melting Point": "97.79 °C",
+      "Group": 2,
+      "Period": 3,
+      "Atomic Radius": "650 pm",
+      "Electronegativity": "1.31"
+    }
+  },
+  {
+    "symbol": "Al",
+    "name": "Aluminium",
+    "details": {
+      "Atomic Number": 13,
+      "Relative Atomic Mass": "26.98",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup> 3p<sup>1</sup>",
+      "Melting Point": "660.3 °C",
+      "Group": 13,
+      "Period": 3,
+      "Atomic Radius": "143 pm",
+      "Electronegativity": "1.61"
+    }
+  },
+  {
+    "symbol": "Si",
+    "name": "Silicon",
+    "details": {
+      "Atomic Number": 14,
+      "Relative Atomic Mass": "28.09",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup> 3p<sup>2</sup>",
+      "Melting Point": "1,410 °C",
+      "Group": 14,
+      "Period": 3,
+      "Atomic Radius": "210 pm",
+      "Electronegativity": "1.90"
+    }
+  },
+  {
+    "symbol": "P",
+    "name": "Phosphorus",
+    "details": {
+      "Atomic Number": 15,
+      "Relative Atomic Mass": "30.97",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup> 3p<sup>3</sup>",
+      "Melting Point": "44.1 °C",
+      "Group": 15,
+      "Period": 3,
+      "Atomic Radius": "195 pm",
+      "Electronegativity": "2.19"
+    }
+  },
+  {
+    "symbol": "S",
+    "name": "Sulfur",
+    "details": {
+      "Atomic Number": 16,
+      "Relative Atomic Mass": "32.07",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup> 3p<sup>4</sup>",
+      "Melting Point": "112.8 °C",
+      "Group": 16,
+      "Period": 3,
+      "Atomic Radius": "180 pm",
+      "Electronegativity": "2.58"
+    }
+  },
+  {
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "details": {
+      "Atomic Number": 17,
+      "Relative Atomic Mass": "35.45",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup> 3p<sup>5</sup>",
+      "Melting Point": "-101.5 °C",
+      "Group": 17,
+      "Period": 3,
+      "Atomic Radius": "175 pm",
+      "Electronegativity": "3.16"
+    }
+  },
+  {
+    "symbol": "Ar",
+    "name": "Argon",
+    "details": {
+      "Atomic Number": 18,
+      "Relative Atomic Mass": "39.95",
+      "Electron Configuration": "[Ne] 3s<sup>2</sup> 3p<sup>6</sup>",
+      "Melting Point": "-189.4 °C",
+      "Group": 18,
+      "Period": 3,
+      "Atomic Radius": "188 pm",
+      "Electronegativity": "None"
+    }
+  },
+  {
+    "symbol": "K",
+    "name": "Potassium",
+    "details": {
+      "Atomic Number": 19,
+      "Relative Atomic Mass": "39.10",
+      "Electron Configuration": "[Ar] 4s<sup>1</sup>",
+      "Melting Point": "63.5 °C",
+      "Group": 1,
+      "Period": 4,
+      "Atomic Radius": "280 pm",
+      "Electronegativity": "0.82"
+    }
+  },
+  {
+    "symbol": "Ca",
+    "name": "Calcium",
+    "details": {
+      "Atomic Number": 20,
+      "Relative Atomic Mass": "40.08",
+      "Electron Configuration": "[Ar] 4s<sup>2</sup>",
+      "Melting Point": "842 °C",
+      "Group": 2,
+      "Period": 4,
+      "Atomic Radius": "231 pm",
+      "Electronegativity": "1"
+    }
+  },
+  {
+    "symbol": "Sc",
+    "name": "Scandium",
+    "details": {
+      "Atomic Number": 21,
+      "Relative Atomic Mass": "44.96",
+      "Electron Configuration": "[Ar] 3d<sup>1</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,541 °C",
+      "Group": 3,
+      "Period": 4,
+      "Atomic Radius": "230 pm",
+      "Electronegativity": "1.36"
+    }
+  },
+  {
+    "symbol": "Ti",
+    "name": "Titanium",
+    "details": {
+      "Atomic Number": 22,
+      "Relative Atomic Mass": "47.87",
+      "Electron Configuration": "[Ar] 3d<sup>2</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,668 °C",
+      "Group": 4,
+      "Period": 4,
+      "Atomic Radius": "187 pm",
+      "Electronegativity": "1.54"
+    }
+  },
+  {
+    "symbol": "V",
+    "name": "Vanadium",
+    "details": {
+      "Atomic Number": 23,
+      "Relative Atomic Mass": "50.94",
+      "Electron Configuration": "[Ar] 3d<sup>3</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,910 °C",
+      "Group": 5,
+      "Period": 4,
+      "Atomic Radius": "205 pm",
+      "Electronegativity": "1.63"
+    }
+  }
+]

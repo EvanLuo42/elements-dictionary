@@ -1,0 +1,13 @@
+<div class="words">
+    <div class="word"><h1 id="alias-name">{{ alias_name }}</h1></div>
+    &nbsp;
+    <div class="word"><h3 id="full-name">{{ fullname }}</h3></div>
+</div>
+<div class="defi">
+    {% for amount_name, amount in details.items() %}
+    <div class="content">
+        <b class="amount">{{ amount }}</b>
+        <div class="amount_name">{{ amount_name }}</div>
+    </div>
+    {% endfor %}
+</div>
