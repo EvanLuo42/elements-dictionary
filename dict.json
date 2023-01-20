@@ -10,7 +10,10 @@
       "Group": 1,
       "Period": 1,
       "Atomic Radius": "53 pm",
-      "Electronegativity": "2.20"
+      "Electronegativity": "2.20",
+      "State at STP": "Gas",
+      "Density at STP": "0.0899 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -24,7 +27,9 @@
       "Group": 18,
       "Period": 1,
       "Atomic Radius": "31 pm",
-      "Electronegativity": "None"
+      "State at STP": "Gas",
+      "Density at STP": "0.1785 g/L",
+      "Category": "Noble Gases"
     }
   },
   {
@@ -38,7 +43,10 @@
       "Group": 1,
       "Period": 2,
       "Atomic Radius": "182 pm",
-      "Electronegativity": "0.98"
+      "Electronegativity": "0.98",
+      "State at STP": "Solid",
+      "Density at STP": "0.534 g/L",
+      "Category": "Alkali Metals"
     }
   },
   {
@@ -52,7 +60,10 @@
       "Group": 2,
       "Period": 2,
       "Atomic Radius": "153 pm",
-      "Electronegativity": "1.57"
+      "Electronegativity": "1.57",
+      "State at STP": "Solid",
+      "Density at STP": "1.85 g/L",
+      "Category": "Alkaline Earth Metals"
     }
   },
   {
@@ -66,7 +77,10 @@
       "Group": 13,
       "Period": 2,
       "Atomic Radius": "85 pm",
-      "Electronegativity": "2.04"
+      "Electronegativity": "2.04",
+      "State at STP": "Solid",
+      "Density at STP": "2.34 g/L",
+      "Category": "Metalloids"
     }
   },
   {
@@ -80,7 +94,10 @@
       "Group": 14,
       "Period": 2,
       "Atomic Radius": "70 pm",
-      "Electronegativity": "2.55"
+      "Electronegativity": "2.55",
+      "State at STP": "Solid",
+      "Density at STP": "2.26 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -94,7 +111,10 @@
       "Group": 15,
       "Period": 2,
       "Atomic Radius": "65 pm",
-      "Electronegativity": "3.04"
+      "Electronegativity": "3.04",
+      "State at STP": "Gas",
+      "Density at STP": "1.2506 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -108,7 +128,10 @@
       "Group": 16,
       "Period": 2,
       "Atomic Radius": "60 pm",
-      "Electronegativity": "3.44"
+      "Electronegativity": "3.44",
+      "State at STP": "Gas",
+      "Density at STP": "1.429 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -122,7 +145,10 @@
       "Group": 17,
       "Period": 2,
       "Atomic Radius": "147 pm",
-      "Electronegativity": "3.98"
+      "Electronegativity": "3.98",
+      "State at STP": "Gas",
+      "Density at STP": "1.696 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -136,7 +162,9 @@
       "Group": 18,
       "Period": 2,
       "Atomic Radius": "38 pm",
-      "Electronegativity": "None"
+      "State at STP": "Gas",
+      "Density at STP": "0.9002 g/L",
+      "Category": "Noble Gases"
     }
   },
   {
@@ -150,7 +178,10 @@
       "Group": 1,
       "Period": 3,
       "Atomic Radius": "227 pm",
-      "Electronegativity": "0.93"
+      "Electronegativity": "0.93",
+      "State at STP": "Solid",
+      "Density at STP": "0.971 g/L",
+      "Category": "Alkali Metals"
     }
   },
   {
@@ -164,7 +195,10 @@
       "Group": 2,
       "Period": 3,
       "Atomic Radius": "650 pm",
-      "Electronegativity": "1.31"
+      "Electronegativity": "1.31",
+      "State at STP": "Solid",
+      "Density at STP": "1.738 g/L",
+      "Category": "Alkaline Earth Metals"
     }
   },
   {
@@ -178,7 +212,10 @@
       "Group": 13,
       "Period": 3,
       "Atomic Radius": "143 pm",
-      "Electronegativity": "1.61"
+      "Electronegativity": "1.61",
+      "State at STP": "Solid",
+      "Density at STP": "2.698 g/L",
+      "Category": "Post-transition Metals"
     }
   },
   {
@@ -192,7 +229,10 @@
       "Group": 14,
       "Period": 3,
       "Atomic Radius": "210 pm",
-      "Electronegativity": "1.90"
+      "Electronegativity": "1.90",
+      "State at STP": "Solid",
+      "Density at STP": "2.3296 g/L",
+      "Category": "Metalloids"
     }
   },
   {
@@ -206,7 +246,10 @@
       "Group": 15,
       "Period": 3,
       "Atomic Radius": "195 pm",
-      "Electronegativity": "2.19"
+      "Electronegativity": "2.19",
+      "State at STP": "Solid",
+      "Density at STP": "1.82 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -220,7 +263,10 @@
       "Group": 16,
       "Period": 3,
       "Atomic Radius": "180 pm",
-      "Electronegativity": "2.58"
+      "Electronegativity": "2.58",
+      "State at STP": "Solid",
+      "Density at STP": "2.067 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -234,7 +280,10 @@
       "Group": 17,
       "Period": 3,
       "Atomic Radius": "175 pm",
-      "Electronegativity": "3.16"
+      "Electronegativity": "3.16",
+      "State at STP": "Gas",
+      "Density at STP": "3.214 g/L",
+      "Category": "Reactive Non-Metals"
     }
   },
   {
@@ -248,7 +297,9 @@
       "Group": 18,
       "Period": 3,
       "Atomic Radius": "188 pm",
-      "Electronegativity": "None"
+      "State at STP": "Gas",
+      "Density at STP": "1.784 g/L",
+      "Category": "Noble Gases"
     }
   },
   {
@@ -262,7 +313,10 @@
       "Group": 1,
       "Period": 4,
       "Atomic Radius": "280 pm",
-      "Electronegativity": "0.82"
+      "Electronegativity": "0.82",
+      "State at STP": "Solid",
+      "Density at STP": "0.862 g/L",
+      "Category": "Alkali Metals"
     }
   },
   {
@@ -276,7 +330,10 @@
       "Group": 2,
       "Period": 4,
       "Atomic Radius": "231 pm",
-      "Electronegativity": "1"
+      "Electronegativity": "1",
+      "State at STP": "Solid",
+      "Density at STP": "1.55 g/L",
+      "Category": "Alkaline Earth Metals"
     }
   },
   {
@@ -290,7 +347,10 @@
       "Group": 3,
       "Period": 4,
       "Atomic Radius": "230 pm",
-      "Electronegativity": "1.36"
+      "Electronegativity": "1.36",
+      "State at STP": "Solid",
+      "Density at STP": "2.985 g/L",
+      "Category": "Transition Metals"
     }
   },
   {
@@ -304,7 +364,10 @@
       "Group": 4,
       "Period": 4,
       "Atomic Radius": "187 pm",
-      "Electronegativity": "1.54"
+      "Electronegativity": "1.54",
+      "State at STP": "Solid",
+      "Density at STP": "4.506 g/L",
+      "Category": "Transition Metals"
     }
   },
   {
@@ -318,7 +381,1625 @@
       "Group": 5,
       "Period": 4,
       "Atomic Radius": "205 pm",
-      "Electronegativity": "1.63"
+      "Electronegativity": "1.63",
+      "State at STP": "Solid",
+      "Density at STP": "6.11 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Cr",
+    "name": "Chromium",
+    "details": {
+      "Atomic Number": 24,
+      "Relative Atomic Mass": "52.00",
+      "Electron Configuration": "[Ar] 3d<sup>5</sup> 4s<sup>1</sup>",
+      "Melting Point": "1,940 °C",
+      "Group": 6,
+      "Period": 4,
+      "Atomic Radius": "205 pm",
+      "Electronegativity": "1.66",
+      "State at STP": "Solid",
+      "Density at STP": "7.14 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Mn",
+    "name": "Manganese",
+    "details": {
+      "Atomic Number": 25,
+      "Relative Atomic Mass": "54.94",
+      "Electron Configuration": "[Ar] 3d<sup>5</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,545 °C",
+      "Group": 7,
+      "Period": 4,
+      "Atomic Radius": "205 pm",
+      "Electronegativity": "1.55",
+      "State at STP": "Solid",
+      "Density at STP": "7.47 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Fe",
+    "name": "Iron",
+    "details": {
+      "Atomic Number": 26,
+      "Relative Atomic Mass": "55.85",
+      "Electron Configuration": "[Ar] 3d<sup>6</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,538 °C",
+      "Group": 8,
+      "Period": 4,
+      "Atomic Radius": "205 pm",
+      "Electronegativity": "1.83",
+      "State at STP": "Solid",
+      "Density at STP": "7.874 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Co",
+    "name": "Cobalt",
+    "details": {
+      "Atomic Number": 27,
+      "Relative Atomic Mass": "58.93",
+      "Electron Configuration": "[Ar] 3d<sup>7</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,495 °C",
+      "Group": 9,
+      "Period": 4,
+      "Atomic Radius": "205 pm",
+      "Electronegativity": "1.88",
+      "State at STP": "Solid",
+      "Density at STP": "8.9 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ni",
+    "name": "Nickel",
+    "details": {
+      "Atomic Number": 28,
+      "Relative Atomic Mass": "58.69",
+      "Electron Configuration": "[Ar] 3d<sup>8</sup> 4s<sup>2</sup>",
+      "Melting Point": "1,425 °C",
+      "Group": 10,
+      "Period": 4,
+      "Atomic Radius": "163 pm",
+      "Electronegativity": "1.91",
+      "State at STP": "Solid",
+      "Density at STP": "8.908 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Cu",
+    "name": "Copper",
+    "details": {
+      "Atomic Number": 29,
+      "Relative Atomic Mass": "63.55",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>1</sup>",
+      "Melting Point": "1,085 °C",
+      "Group": 11,
+      "Period": 4,
+      "Atomic Radius": "140 pm",
+      "Electronegativity": "1.9",
+      "State at STP": "Solid",
+      "Density at STP": "8.96 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Zn",
+    "name": "Zinc",
+    "details": {
+      "Atomic Number": 30,
+      "Relative Atomic Mass": "65.38",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup>",
+      "Melting Point": "419.5 °C",
+      "Group": 12,
+      "Period": 4,
+      "Atomic Radius": "139 pm",
+      "Electronegativity": "1.65",
+      "State at STP": "Solid",
+      "Density at STP": "7.14 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ga",
+    "name": "Gallium",
+    "details": {
+      "Atomic Number": 31,
+      "Relative Atomic Mass": "69.72",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>1</sup>",
+      "Melting Point": "29.76 °C",
+      "Group": 13,
+      "Period": 4,
+      "Atomic Radius": "187 pm",
+      "Electronegativity": "1.81",
+      "State at STP": "Solid",
+      "Density at STP": "5.904 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ge",
+    "name": "Germanium",
+    "details": {
+      "Atomic Number": 32,
+      "Relative Atomic Mass": "72.59",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>2</sup>",
+      "Melting Point": "938 °C",
+      "Group": 14,
+      "Period": 4,
+      "Atomic Radius": "211 pm",
+      "Electronegativity": "2.01",
+      "State at STP": "Solid",
+      "Density at STP": "5.323 g/L",
+      "Category": "Metalloids"
+    }
+  },
+  {
+    "symbol": "As",
+    "name": "Arsenic",
+    "details": {
+      "Atomic Number": 33,
+      "Relative Atomic Mass": "74.92",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>3</sup>",
+      "Melting Point": "817 °C",
+      "Group": 15,
+      "Period": 4,
+      "Atomic Radius": "185 pm",
+      "Electronegativity": "2.18",
+      "State at STP": "Solid",
+      "Density at STP": "5.727 g/L",
+      "Category": "Metalloids"
+    }
+  },
+  {
+    "symbol": "Se",
+    "name": "Selenium",
+    "details": {
+      "Atomic Number": 34,
+      "Relative Atomic Mass": "78.96",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>4</sup>",
+      "Melting Point": "221 °C",
+      "Group": 16,
+      "Period": 4,
+      "Atomic Radius": "190 pm",
+      "Electronegativity": "2.55",
+      "State at STP": "Solid",
+      "Density at STP": "4.819 g/L",
+      "Category": "Non-Metals"
+    }
+  },
+  {
+    "symbol": "Br",
+    "name": "Bromine",
+    "details": {
+      "Atomic Number": 32,
+      "Relative Atomic Mass": "72.59",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>2</sup>",
+      "Melting Point": "938 °C",
+      "Group": 14,
+      "Period": 4,
+      "Atomic Radius": "211 pm",
+      "Electronegativity": "2.01",
+      "State at STP": "Solid",
+      "Density at STP": "5.323 g/L",
+      "Category": "Metalloids"
+    }
+  },
+  {
+    "symbol": "Kr",
+    "name": "Krypton",
+    "details": {
+      "Atomic Number": 36,
+      "Relative Atomic Mass": "83.8",
+      "Electron Configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup>",
+      "Melting Point": "-157.36 °C",
+      "Group": 18,
+      "Period": 4,
+      "Atomic Radius": "202 pm",
+      "Electronegativity": "3.0",
+      "State at STP": "Gas",
+      "Density at STP": "3.733 g/L",
+      "Category": "Noble Gases"
+    }
+  },
+  {
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "details": {
+      "Atomic Number": 37,
+      "Relative Atomic Mass": "85.47",
+      "Electron Configuration": "[Kr] 5s<sup>1</sup>",
+      "Melting Point": "39.31 °C",
+      "Group": 1,
+      "Period": 5,
+      "Atomic Radius": "303 pm",
+      "Electronegativity": "0.82",
+      "State at STP": "Solid",
+      "Density at STP": "1.532 g/L",
+      "Category": "Alkali Metals"
+    }
+  },
+  {
+    "symbol": "Sr",
+    "name": "Strontium",
+    "details": {
+      "Atomic Number": 38,
+      "Relative Atomic Mass": "87.62",
+      "Electron Configuration": "[Kr] 5s<sup>2</sup>",
+      "Melting Point": "777 °C",
+      "Group": 2,
+      "Period": 5,
+      "Atomic Radius": "249 pm",
+      "Electronegativity": "0.95",
+      "State at STP": "Solid",
+      "Density at STP": "2.64 g/L",
+      "Category": "Alkaline Earth Metals"
+    }
+  },
+  {
+    "symbol": "Y",
+    "name": "Yttrium",
+    "details": {
+      "Atomic Number": 39,
+      "Relative Atomic Mass": "88.91",
+      "Electron Configuration": "[Kr] 4d<sup>1</sup> 5s<sup>2</sup>",
+      "Melting Point": "1526 °C",
+      "Group": 3,
+      "Period": 5,
+      "Atomic Radius": "140 pm",
+      "Electronegativity": "1.22",
+      "State at STP": "Solid",
+      "Density at STP": "4.469 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "details": {
+      "Atomic Number": 40,
+      "Relative Atomic Mass": "91.22",
+      "Electron Configuration": "[Kr] 4d<sup>2</sup> 5s<sup>2</sup>",
+      "Melting Point": "1855 °C",
+      "Group": 4,
+      "Period": 5,
+      "Atomic Radius": "127 pm",
+      "Electronegativity": "1.33",
+      "State at STP": "Solid",
+      "Density at STP": "6.506 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Nb",
+    "name": "Niobium",
+    "details": {
+      "Atomic Number": 41,
+      "Relative Atomic Mass": "92.91",
+      "Electron Configuration": "[Kr] 4d<sup>4</sup> 5s<sup>1</sup>",
+      "Melting Point": "2477 °C",
+      "Group": 5,
+      "Period": 5,
+      "Atomic Radius": "137 pm",
+      "Electronegativity": "1.6",
+      "State at STP": "Solid",
+      "Density at STP": "8.57 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "details": {
+      "Atomic Number": 42,
+      "Relative Atomic Mass": "95.94",
+      "Electron Configuration": "[Kr] 4d<sup>5</sup> 5s<sup>1</sup>",
+      "Melting Point": "2623 °C",
+      "Group": 6,
+      "Period": 5,
+      "Atomic Radius": "145 pm",
+      "Electronegativity": "2.16",
+      "State at STP": "Solid",
+      "Density at STP": "10.22 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Tc",
+    "name": "Technetium",
+    "details": {
+      "Atomic Number": 43,
+      "Relative Atomic Mass": "98",
+      "Electron Configuration": "[Kr] 4d<sup>5</sup> 5s<sup>2</sup>",
+      "Melting Point": "2157 °C",
+      "Group": 7,
+      "Period": 5,
+      "Atomic Radius": "156 pm",
+      "Electronegativity": "1.9",
+      "State at STP": "Solid",
+      "Density at STP": "11.5 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "details": {
+      "Atomic Number": 44,
+      "Relative Atomic Mass": "101.07",
+      "Electron Configuration": "[Kr] 4d<sup>7</sup> 5s<sup>1</sup>",
+      "Melting Point": "2334 °C",
+      "Group": 8,
+      "Period": 5,
+      "Atomic Radius": "126 pm",
+      "Electronegativity": "2.2",
+      "State at STP": "Solid",
+      "Density at STP": "12.37 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "details": {
+      "Atomic Number": 45,
+      "Relative Atomic Mass": "102.91",
+      "Electron Configuration": "[Kr] 4d<sup>8</sup> 5s<sup>1</sup>",
+      "Melting Point": "1964 °C",
+      "Group": 9,
+      "Period": 5,
+      "Atomic Radius": "135 pm",
+      "Electronegativity": "2.28",
+      "State at STP": "Solid",
+      "Density at STP": "12.41 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Pd",
+    "name": "Palladium",
+    "details": {
+      "Atomic Number": 46,
+      "Relative Atomic Mass": "106.42",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup>",
+      "Melting Point": "1554.9 °C",
+      "Group": 10,
+      "Period": 5,
+      "Atomic Radius": "131 pm",
+      "Electronegativity": "2.2",
+      "State at STP": "Solid",
+      "Density at STP": "12.02 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ag",
+    "name": "Silver",
+    "details": {
+      "Atomic Number": 47,
+      "Relative Atomic Mass": "107.87",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>1</sup>",
+      "Melting Point": "961.93 °C",
+      "Group": 11,
+      "Period": 5,
+      "Atomic Radius": "153 pm",
+      "Electronegativity": "1.93",
+      "State at STP": "Solid",
+      "Density at STP": "10.501 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "details": {
+      "Atomic Number": 48,
+      "Relative Atomic Mass": "112.41",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup>",
+      "Melting Point": "321.07 °C",
+      "Group": 12,
+      "Period": 5,
+      "Atomic Radius": "148 pm",
+      "Electronegativity": "1.69",
+      "State at STP": "Solid",
+      "Density at STP": "8.69 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "In",
+    "name": "Indium",
+    "details": {
+      "Atomic Number": 49,
+      "Relative Atomic Mass": "114.82",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>1</sup>",
+      "Melting Point": "156.6 °C",
+      "Group": 13,
+      "Period": 5,
+      "Atomic Radius": "144 pm",
+      "Electronegativity": "1.78",
+      "State at STP": "Solid",
+      "Density at STP": "7.31 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "Sn",
+    "name": "Tin",
+    "details": {
+      "Atomic Number": 50,
+      "Relative Atomic Mass": "118.71",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>2</sup>",
+      "Melting Point": "231.93 °C",
+      "Group": 14,
+      "Period": 5,
+      "Atomic Radius": "141 pm",
+      "Electronegativity": "1.96",
+      "State at STP": "Solid",
+      "Density at STP": "7.287 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "Sb",
+    "name": "Antimony",
+    "details": {
+      "Atomic Number": 51,
+      "Relative Atomic Mass": "121.76",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>3</sup>",
+      "Melting Point": "630.63 °C",
+      "Group": 15,
+      "Period": 5,
+      "Atomic Radius": "138 pm",
+      "Electronegativity": "2.05",
+      "State at STP": "Solid",
+      "Density at STP": "6.685 g/L",
+      "Category": "Metalloids"
+    }
+  },
+  {
+    "symbol": "Te",
+    "name": "Tellurium",
+    "details": {
+      "Atomic Number": 52,
+      "Relative Atomic Mass": "127.6",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>4</sup>",
+      "Melting Point": "449.51 °C",
+      "Group": 16,
+      "Period": 5,
+      "Atomic Radius": "135 pm",
+      "Electronegativity": "2.1",
+      "State at STP": "Solid",
+      "Density at STP": "6.232 g/L",
+      "Category": "Metalloids"
+    }
+  },
+  {
+    "symbol": "I",
+    "name": "Iodine",
+    "details": {
+      "Atomic Number": 53,
+      "Relative Atomic Mass": "126.9",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>5</sup>",
+      "Melting Point": "113.7 °C",
+      "Group": 17,
+      "Period": 5,
+      "Atomic Radius": "133 pm",
+      "Electronegativity": "2.66",
+      "State at STP": "Solid",
+      "Density at STP": "4.93 g/L",
+      "Category": "Halogens"
+    }
+  },
+  {
+    "symbol": "Xe",
+    "name": "Xenon",
+    "details": {
+      "Atomic Number": 54,
+      "Relative Atomic Mass": "131.29",
+      "Electron Configuration": "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup>",
+      "Melting Point": "161.4 °C",
+      "Group": 18,
+      "Period": 5,
+      "Atomic Radius": "130 pm",
+      "Electronegativity": "2.6",
+      "State at STP": "Gas",
+      "Density at STP": "0.005887 g/L",
+      "Category": "Noble Gases"
+    }
+  },
+  {
+    "symbol": "Cs",
+    "name": "Caesium",
+    "details": {
+      "Atomic Number": 55,
+      "Relative Atomic Mass": "132.91",
+      "Electron Configuration": "[Xe] 6s<sup>1</sup>",
+      "Melting Point": "301.59 °C",
+      "Group": 1,
+      "Period": 6,
+      "Atomic Radius": "225 pm",
+      "Electronegativity": "0.79",
+      "State at STP": "Solid",
+      "Density at STP": "1.873 g/L",
+      "Category": "Alkali Metals"
+    }
+  },
+  {
+    "symbol": "Ba",
+    "name": "Barium",
+    "details": {
+      "Atomic Number": 56,
+      "Relative Atomic Mass": "137.33",
+      "Electron Configuration": "[Xe] 6s<sup>2</sup>",
+      "Melting Point": "1000 °C",
+      "Group": 2,
+      "Period": 6,
+      "Atomic Radius": "198 pm",
+      "Electronegativity": "0.89",
+      "State at STP": "Solid",
+      "Density at STP": "3.594 g/L",
+      "Category": "Alkaline Earth Metals"
+    }
+  },
+  {
+    "symbol": "La",
+    "name": "Lanthanum",
+    "details": {
+      "Atomic Number": 57,
+      "Relative Atomic Mass": "138.91",
+      "Electron Configuration": "[Xe] 5d<sup>1</sup> 6s<sup>2</sup>",
+      "Melting Point": "1193 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "169 pm",
+      "Electronegativity": "1.1",
+      "State at STP": "Solid",
+      "Density at STP": "6.145 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Ce",
+    "name": "Cerium",
+    "details": {
+      "Atomic Number": 58,
+      "Relative Atomic Mass": "140.12",
+      "Electron Configuration": "[Xe] 4f<sup>1</sup> 5d<sup>1</sup> 6s<sup>2</sup>",
+      "Melting Point": "1071 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "165 pm",
+      "Electronegativity": "1.12",
+      "State at STP": "Solid",
+      "Density at STP": "6.77 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "details": {
+      "Atomic Number": 59,
+      "Relative Atomic Mass": "140.91",
+      "Electron Configuration": "[Xe] 4f<sup>3</sup> 6s<sup>2</sup>",
+      "Melting Point": "1204 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "165 pm",
+      "Electronegativity": "1.13",
+      "State at STP": "Solid",
+      "Density at STP": "6.773 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "details": {
+      "Atomic Number": 60,
+      "Relative Atomic Mass": "144.24",
+      "Electron Configuration": "[Xe] 4f<sup>4</sup> 6s<sup>2</sup>",
+      "Melting Point": "1294 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "164 pm",
+      "Electronegativity": "1.14",
+      "State at STP": "Solid",
+      "Density at STP": "7.007 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Pm",
+    "name": "Promethium",
+    "details": {
+      "Atomic Number": 61,
+      "Relative Atomic Mass": "145",
+      "Electron Configuration": "[Xe] 4f<sup>5</sup> 6s<sup>2</sup>",
+      "Melting Point": "1315 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "163 pm",
+      "Electronegativity": "1.13",
+      "State at STP": "Solid",
+      "Density at STP": "7.26 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Sm",
+    "name": "Samarium",
+    "details": {
+      "Atomic Number": 62,
+      "Relative Atomic Mass": "150.36",
+      "Electron Configuration": "[Xe] 4f<sup>6</sup> 6s<sup>2</sup>",
+      "Melting Point": "1345 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "162 pm",
+      "Electronegativity": "1.17",
+      "State at STP": "Solid",
+      "Density at STP": "7.52 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Eu",
+    "name": "Europium",
+    "details": {
+      "Atomic Number": 63,
+      "Relative Atomic Mass": "151.96",
+      "Electron Configuration": "[Xe] 4f<sup>7</sup> 6s<sup>2</sup>",
+      "Melting Point": "1099 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "161 pm",
+      "Electronegativity": "1.2",
+      "State at STP": "Solid",
+      "Density at STP": "5.243 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "details": {
+      "Atomic Number": 64,
+      "Relative Atomic Mass": "157.25",
+      "Electron Configuration": "[Xe] 4f<sup>7</sup> 5d<sup>1</sup> 6s<sup>2</sup>",
+      "Melting Point": "1585 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "160 pm",
+      "Electronegativity": "1.2",
+      "State at STP": "Solid",
+      "Density at STP": "7.895 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Tb",
+    "name": "Terbium",
+    "details": {
+      "Atomic Number": 65,
+      "Relative Atomic Mass": "158.93",
+      "Electron Configuration": "[Xe] 4f<sup>9</sup> 6s<sup>2</sup>",
+      "Melting Point": "1629 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "159 pm",
+      "Electronegativity": "1.2",
+      "State at STP": "Solid",
+      "Density at STP": "8.229 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "details": {
+      "Atomic Number": 66,
+      "Relative Atomic Mass": "162.5",
+      "Electron Configuration": "[Xe] 4f<sup>10</sup> 6s<sup>2</sup>",
+      "Melting Point": "1680 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "158 pm",
+      "Electronegativity": "1.22",
+      "State at STP": "Solid",
+      "Density at STP": "8.55 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Ho",
+    "name": "Holmium",
+    "details": {
+      "Atomic Number": 67,
+      "Relative Atomic Mass": "164.93",
+      "Electron Configuration": "[Xe] 4f<sup>11</sup> 6s<sup>2</sup>",
+      "Melting Point": "1747 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "157 pm",
+      "Electronegativity": "1.23",
+      "State at STP": "Solid",
+      "Density at STP": "8.795 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Er",
+    "name": "Erbium",
+    "details": {
+      "Atomic Number": 68,
+      "Relative Atomic Mass": "167.26",
+      "Electron Configuration": "[Xe] 4f<sup>12</sup> 6s<sup>2</sup>",
+      "Melting Point": "1802 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "156 pm",
+      "Electronegativity": "1.24",
+      "State at STP": "Solid",
+      "Density at STP": "9.066 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Tm",
+    "name": "Thulium",
+    "details": {
+      "Atomic Number": 69,
+      "Relative Atomic Mass": "168.93",
+      "Electron Configuration": "[Xe] 4f<sup>13</sup> 6s<sup>2</sup>",
+      "Melting Point": "1818 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "155 pm",
+      "Electronegativity": "1.25",
+      "State at STP": "Solid",
+      "Density at STP": "9.321 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "details": {
+      "Atomic Number": 70,
+      "Relative Atomic Mass": "173.04",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 6s<sup>2</sup>",
+      "Melting Point": "1097 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "154 pm",
+      "Electronegativity": "1.1",
+      "State at STP": "Solid",
+      "Density at STP": "6.965 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "details": {
+      "Atomic Number": 71,
+      "Relative Atomic Mass": "174.97",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>1</sup> 6s<sup>2</sup>",
+      "Melting Point": "1925 °C",
+      "Group": 3,
+      "Period": 6,
+      "Atomic Radius": "153 pm",
+      "Electronegativity": "1.27",
+      "State at STP": "Solid",
+      "Density at STP": "9.84 g/L",
+      "Category": "Lanthanides"
+    }
+  },
+  {
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "details": {
+      "Atomic Number": 72,
+      "Relative Atomic Mass": "178.49",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>2</sup> 6s<sup>2</sup>",
+      "Melting Point": "2506 °C",
+      "Group": 4,
+      "Period": 6,
+      "Atomic Radius": "152 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "13.31 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "details": {
+      "Atomic Number": 73,
+      "Relative Atomic Mass": "180.95",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>3</sup> 6s<sup>2</sup>",
+      "Melting Point": "3290 °C",
+      "Group": 5,
+      "Period": 6,
+      "Atomic Radius": "149 pm",
+      "Electronegativity": "1.5",
+      "State at STP": "Solid",
+      "Density at STP": "16.69 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "W",
+    "name": "Tungsten",
+    "details": {
+      "Atomic Number": 74,
+      "Relative Atomic Mass": "183.84",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>4</sup> 6s<sup>2</sup>",
+      "Melting Point": "3695 °C",
+      "Group": 6,
+      "Period": 6,
+      "Atomic Radius": "146 pm",
+      "Electronegativity": "2.36",
+      "State at STP": "Solid",
+      "Density at STP": "19.25 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Re",
+    "name": "Rhenium",
+    "details": {
+      "Atomic Number": 75,
+      "Relative Atomic Mass": "186.21",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>5</sup> 6s<sup>2</sup>",
+      "Melting Point": "3459 °C",
+      "Group": 7,
+      "Period": 6,
+      "Atomic Radius": "143 pm",
+      "Electronegativity": "1.9",
+      "State at STP": "Solid",
+      "Density at STP": "21.02 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Os",
+    "name": "Osmium",
+    "details": {
+      "Atomic Number": 76,
+      "Relative Atomic Mass": "190.23",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>6</sup> 6s<sup>2</sup>",
+      "Melting Point": "3306 °C",
+      "Group": 8,
+      "Period": 6,
+      "Atomic Radius": "140 pm",
+      "Electronegativity": "2.2",
+      "State at STP": "Solid",
+      "Density at STP": "22.61 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Ir",
+    "name": "Iridium",
+    "details": {
+      "Atomic Number": 77,
+      "Relative Atomic Mass": "192.22",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>7</sup> 6s<sup>2</sup>",
+      "Melting Point": "2719 °C",
+      "Group": 9,
+      "Period": 6,
+      "Atomic Radius": "139 pm",
+      "Electronegativity": "2.2",
+      "State at STP": "Solid",
+      "Density at STP": "22.56 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Pt",
+    "name": "Platinum",
+    "details": {
+      "Atomic Number": 78,
+      "Relative Atomic Mass": "195.08",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>9</sup> 6s<sup>1</sup>",
+      "Melting Point": "2041.4 °C",
+      "Group": 10,
+      "Period": 6,
+      "Atomic Radius": "128 pm",
+      "Electronegativity": "2.28",
+      "State at STP": "Solid",
+      "Density at STP": "21.46 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Au",
+    "name": "Gold",
+    "details": {
+      "Atomic Number": 79,
+      "Relative Atomic Mass": "196.97",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>1</sup>",
+      "Melting Point": "1337.33 °C",
+      "Group": 11,
+      "Period": 6,
+      "Atomic Radius": "144 pm",
+      "Electronegativity": "2.54",
+      "State at STP": "Solid",
+      "Density at STP": "19.32 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Hg",
+    "name": "Mercury",
+    "details": {
+      "Atomic Number": 80,
+      "Relative Atomic Mass": "200.59",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup>",
+      "Melting Point": "234.43 °C",
+      "Group": 12,
+      "Period": 6,
+      "Atomic Radius": "149 pm",
+      "Electronegativity": "2",
+      "State at STP": "Liquid",
+      "Density at STP": "13.5336 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Tl",
+    "name": "Thallium",
+    "details": {
+      "Atomic Number": 81,
+      "Relative Atomic Mass": "204.38",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>1</sup>",
+      "Melting Point": "577 °C",
+      "Group": 13,
+      "Period": 6,
+      "Atomic Radius": "148 pm",
+      "Electronegativity": "1.62",
+      "State at STP": "Solid",
+      "Density at STP": "11.85 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "Pb",
+    "name": "Lead",
+    "details": {
+      "Atomic Number": 82,
+      "Relative Atomic Mass": "207.2",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>2</sup>",
+      "Melting Point": "600.61 °C",
+      "Group": 14,
+      "Period": 6,
+      "Atomic Radius": "147 pm",
+      "Electronegativity": "2.33",
+      "State at STP": "Solid",
+      "Density at STP": "11.34 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "details": {
+      "Atomic Number": 83,
+      "Relative Atomic Mass": "208.98",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>3</sup>",
+      "Melting Point": "544.7 °C",
+      "Group": 15,
+      "Period": 6,
+      "Atomic Radius": "146 pm",
+      "Electronegativity": "2.02",
+      "State at STP": "Solid",
+      "Density at STP": "9.78 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "Po",
+    "name": "Polonium",
+    "details": {
+      "Atomic Number": 84,
+      "Relative Atomic Mass": "209",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>4</sup>",
+      "Melting Point": "527 °C",
+      "Group": 16,
+      "Period": 6,
+      "Atomic Radius": "145 pm",
+      "Electronegativity": "2",
+      "State at STP": "Solid",
+      "Density at STP": "9.196 g/L",
+      "Category": "Post-Transition Metals"
+    }
+  },
+  {
+    "symbol": "At",
+    "name": "Astatine",
+    "details": {
+      "Atomic Number": 85,
+      "Relative Atomic Mass": "210",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>5</sup>",
+      "Melting Point": "575 °C",
+      "Group": 17,
+      "Period": 6,
+      "Atomic Radius": "144 pm",
+      "Electronegativity": "2.2",
+      "State at STP": "Solid",
+      "Density at STP": "6.35 g/L",
+      "Category": "Halogens"
+    }
+  },
+  {
+    "symbol": "Rn",
+    "name": "Radon",
+    "details": {
+      "Atomic Number": 86,
+      "Relative Atomic Mass": "222",
+      "Electron Configuration": "[Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>6</sup>",
+      "Melting Point": "202 °C",
+      "Group": 18,
+      "Period": 6,
+      "Atomic Radius": "143 pm",
+      "Electronegativity": "",
+      "State at STP": "Gas",
+      "Density at STP": "9.73 g/L",
+      "Category": "Noble Gases"
+    }
+  },
+  {
+    "symbol": "Fr",
+    "name": "Francium",
+    "details": {
+      "Atomic Number": 87,
+      "Relative Atomic Mass": "223",
+      "Electron Configuration": "[Rn] 7s<sup>1</sup>",
+      "Melting Point": "300 °C",
+      "Group": 1,
+      "Period": 7,
+      "Atomic Radius": "348 pm",
+      "Electronegativity": "0.7",
+      "State at STP": "Solid",
+      "Density at STP": "1.87 g/L",
+      "Category": "Alkali Metals"
+    }
+  },
+  {
+    "symbol": "Ra",
+    "name": "Radium",
+    "details": {
+      "Atomic Number": 88,
+      "Relative Atomic Mass": "226",
+      "Electron Configuration": "[Rn] 7s<sup>2</sup>",
+      "Melting Point": "973 °C",
+      "Group": 2,
+      "Period": 7,
+      "Atomic Radius": "283 pm",
+      "Electronegativity": "0.9",
+      "State at STP": "Solid",
+      "Density at STP": "5.5 g/L",
+      "Category": "Alkaline Earth Metals"
+    }
+  },
+  {
+    "symbol": "Ac",
+    "name": "Actinium",
+    "details": {
+      "Atomic Number": 89,
+      "Relative Atomic Mass": "227",
+      "Electron Configuration": "[Rn] 6d<sup>1</sup> 7s<sup>2</sup>",
+      "Melting Point": "1323 °C",
+      "Group": 3,
+      "Period": 7,
+      "Atomic Radius": "260 pm",
+      "Electronegativity": "1.1",
+      "State at STP": "Solid",
+      "Density at STP": "10.07 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Th",
+    "name": "Thorium",
+    "details": {
+      "Atomic Number": 90,
+      "Relative Atomic Mass": "232.0381",
+      "Electron Configuration": "[Rn] 6d<sup>2</sup> 7s<sup>2</sup>",
+      "Melting Point": "2023 °C",
+      "Group": 4,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "11.72 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "details": {
+      "Atomic Number": 91,
+      "Relative Atomic Mass": "231.03588",
+      "Electron Configuration": "[Rn] 5f<sup>2</sup> 6d<sup>1</sup> 7s<sup>2</sup>",
+      "Melting Point": "1841 °C",
+      "Group": 5,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.5",
+      "State at STP": "Solid",
+      "Density at STP": "15.37 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "U",
+    "name": "Uranium",
+    "details": {
+      "Atomic Number": 92,
+      "Relative Atomic Mass": "238.02891",
+      "Electron Configuration": "[Rn] 5f<sup>3</sup> 6d<sup>1</sup> 7s<sup>2</sup>",
+      "Melting Point": "1405.3 °C",
+      "Group": 6,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.38",
+      "State at STP": "Solid",
+      "Density at STP": "19.05 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Np",
+    "name": "Neptunium",
+    "details": {
+      "Atomic Number": 93,
+      "Relative Atomic Mass": "237",
+      "Electron Configuration": "[Rn] 5f<sup>4</sup> 6d<sup>1</sup> 7s<sup>2</sup>",
+      "Melting Point": "917 °C",
+      "Group": 7,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.36",
+      "State at STP": "Solid",
+      "Density at STP": "20.45 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "details": {
+      "Atomic Number": 94,
+      "Relative Atomic Mass": "244",
+      "Electron Configuration": "[Rn] 5f<sup>6</sup> 7s<sup>2</sup>",
+      "Melting Point": "913 °C",
+      "Group": 8,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.28",
+      "State at STP": "Solid",
+      "Density at STP": "19.816 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Am",
+    "name": "Americium",
+    "details": {
+      "Atomic Number": 95,
+      "Relative Atomic Mass": "243",
+      "Electron Configuration": "[Rn] 5f<sup>7</sup> 7s<sup>2</sup>",
+      "Melting Point": "1449 °C",
+      "Group": 9,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "13.69 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Cm",
+    "name": "Curium",
+    "details": {
+      "Atomic Number": 96,
+      "Relative Atomic Mass": "247",
+      "Electron Configuration": "[Rn] 5f<sup>7</sup> 6d<sup>1</sup> 7s<sup>2</sup>",
+      "Melting Point": "1613 °C",
+      "Group": 10,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "13.51 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "details": {
+      "Atomic Number": 97,
+      "Relative Atomic Mass": "247",
+      "Electron Configuration": "[Rn] 5f<sup>9</sup> 7s<sup>2</sup>",
+      "Melting Point": "1259 °C",
+      "Group": 11,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "14.78 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Cf",
+    "name": "Californium",
+    "details": {
+      "Atomic Number": 98,
+      "Relative Atomic Mass": "251",
+      "Electron Configuration": "[Rn] 5f<sup>10</sup> 7s<sup>2</sup>",
+      "Melting Point": "1173 °C",
+      "Group": 12,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "15.1 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "details": {
+      "Atomic Number": 99,
+      "Relative Atomic Mass": "252",
+      "Electron Configuration": "[Rn] 5f<sup>11</sup> 7s<sup>2</sup>",
+      "Melting Point": "1133 °C",
+      "Group": 13,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "8.84 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Fm",
+    "name": "Fermium",
+    "details": {
+      "Atomic Number": 100,
+      "Relative Atomic Mass": "257",
+      "Electron Configuration": "[Rn] 5f<sup>12</sup> 7s<sup>2</sup>",
+      "Melting Point": "1800 °C",
+      "Group": 14,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "9.84 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "details": {
+      "Atomic Number": 101,
+      "Relative Atomic Mass": "258",
+      "Electron Configuration": "[Rn] 5f<sup>13</sup> 7s<sup>2</sup>",
+      "Melting Point": "1100 °C",
+      "Group": 15,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "10.3 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "No",
+    "name": "Nobelium",
+    "details": {
+      "Atomic Number": 102,
+      "Relative Atomic Mass": "259",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 7s<sup>2</sup>",
+      "Melting Point": "1100 °C",
+      "Group": 16,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "10.3 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "details": {
+      "Atomic Number": 103,
+      "Relative Atomic Mass": "262",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>1</sup> 7s<sup>2</sup>",
+      "Melting Point": "1900 °C",
+      "Group": 17,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "15.3 g/L",
+      "Category": "Actinides"
+    }
+  },
+  {
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "details": {
+      "Atomic Number": 104,
+      "Relative Atomic Mass": "261",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>2</sup> 7s<sup>2</sup>",
+      "Melting Point": "2400 °C",
+      "Group": 4,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "23.2 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Db",
+    "name": "Dubnium",
+    "details": {
+      "Atomic Number": 105,
+      "Relative Atomic Mass": "262",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>3</sup> 7s<sup>2</sup>",
+      "Melting Point": "2900 °C",
+      "Group": 5,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "29.3 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "details": {
+      "Atomic Number": 106,
+      "Relative Atomic Mass": "266",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>4</sup> 7s<sup>2</sup>",
+      "Melting Point": "3500 °C",
+      "Group": 6,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "35.0 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "details": {
+      "Atomic Number": 107,
+      "Relative Atomic Mass": "264",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>5</sup> 7s<sup>2</sup>",
+      "Melting Point": "3200 °C",
+      "Group": 7,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "37.1 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Hs",
+    "name": "Hassium",
+    "details": {
+      "Atomic Number": 108,
+      "Relative Atomic Mass": "277",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>6</sup> 7s<sup>2</sup>",
+      "Melting Point": "2700 °C",
+      "Group": 8,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "40.7 g/L",
+      "Category": "Transition Metals"
+    }
+  },
+  {
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "details": {
+      "Atomic Number": 109,
+      "Relative Atomic Mass": "268",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>7</sup> 7s<sup>2</sup>",
+      "Melting Point": "Unknown",
+      "Group": 9,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "37.4 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "details": {
+      "Atomic Number": 110,
+      "Relative Atomic Mass": "281",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>9</sup> 7s<sup>1</sup>",
+      "Melting Point": "Unknown",
+      "Group": 10,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "34.8 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "details": {
+      "Atomic Number": 111,
+      "Relative Atomic Mass": "272",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>1</sup>",
+      "Melting Point": "Unknown",
+      "Group": 11,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "28.7 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "details": {
+      "Atomic Number": 112,
+      "Relative Atomic Mass": "285",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup>",
+      "Melting Point": "Unknown",
+      "Group": 12,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "23.7 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "details": {
+      "Atomic Number": 113,
+      "Relative Atomic Mass": "286",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>1</sup>",
+      "Melting Point": "Unknown",
+      "Group": 13,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "16.0 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "details": {
+      "Atomic Number": 114,
+      "Relative Atomic Mass": "289",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>2</sup>",
+      "Melting Point": "Unknown",
+      "Group": 14,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "14.0 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "details": {
+      "Atomic Number": 115,
+      "Relative Atomic Mass": "288",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>3</sup>",
+      "Melting Point": "Unknown",
+      "Group": 15,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "13.5 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "details": {
+      "Atomic Number": 116,
+      "Relative Atomic Mass": "293",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>4</sup>",
+      "Melting Point": "Unknown",
+      "Group": 16,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "12.9 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "details": {
+      "Atomic Number": 117,
+      "Relative Atomic Mass": "294",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>5</sup>",
+      "Melting Point": "Unknown",
+      "Group": 17,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "7.17 g/L",
+      "Category": "Unknown Properties"
+    }
+  },
+  {
+    "symbol": "Og",
+    "name": "Oganesson",
+    "details": {
+      "Atomic Number": 118,
+      "Relative Atomic Mass": "294",
+      "Electron Configuration": "[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>6</sup>",
+      "Melting Point": "Unknown",
+      "Group": 18,
+      "Period": 7,
+      "Atomic Radius": "215 pm",
+      "Electronegativity": "1.3",
+      "State at STP": "Solid",
+      "Density at STP": "4.95 g/L",
+      "Category": "Unknown Properties"
     }
   }
 ]
